@@ -1,6 +1,6 @@
 # python-docker-01
 
-## はじめての build
+## 初回
 
 ```sh
 docker compose up -d --build
@@ -10,6 +10,12 @@ docker compose up -d --build
 
 ```sh
 docker compose up -d
+```
+
+## コンテナ終了
+
+```sh
+docker compose down
 ```
 
 ## 参考
